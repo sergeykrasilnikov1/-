@@ -5,7 +5,7 @@
 #include "meta/meta.h"
 
 int main() {
-    double c = minus(sum(mul(5.2, 3.4),3.2), 3.0);
+    double c = minus(sum(mul(5.2, 3.4),3.2), 3.0)
     std::cout << c << std::endl;
     // Пример обращения:
     const unsigned f5 = factorial<5>::value; // 120
