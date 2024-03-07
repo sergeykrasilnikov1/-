@@ -1,0 +1,14 @@
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/CMakeFiles/RUN_TESTS.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/CMakeFiles/INSTALL.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/CMakeFiles/ALL_BUILD.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/CMakeFiles/ZERO_CHECK.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googlemock/CMakeFiles/gmock.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googlemock/CMakeFiles/gmock_main.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googlemock/CMakeFiles/RUN_TESTS.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googlemock/CMakeFiles/INSTALL.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googlemock/CMakeFiles/ALL_BUILD.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googletest/CMakeFiles/gtest.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googletest/CMakeFiles/gtest_main.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googletest/CMakeFiles/RUN_TESTS.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googletest/CMakeFiles/INSTALL.dir
+D:/c++/students/2 semestr/Seminar2/project-git/libraries/googletest/build/googletest/CMakeFiles/ALL_BUILD.dir
